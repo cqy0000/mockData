@@ -78,7 +78,7 @@
             "userName": "小红1",
             "userIcon": "...",
             "isFollowed": "false",
-            "imageList": [
+            "imagesUrl": [
                 "1",
                 "2",
                 "3",
@@ -96,7 +96,7 @@
             "staredNum": 30,
             "comments": {
                 "totalNum": 3,
-                "list": [{
+                "results": [{
                         "userId": "22",
                         "userName": "小红22",
                         "userIcon": "lll",
