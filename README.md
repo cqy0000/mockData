@@ -1,2 +1,0 @@
-# mockData
-For learning
